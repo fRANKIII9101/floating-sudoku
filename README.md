@@ -2,7 +2,9 @@
 
 常驻桌面、半透明、随手可玩的数独小工具。用 **Python + tkinter** 打造的真悬浮窗，工作间隙也能摸鱼来一局。
 
-![界面预览](preview.png)
+![界面预览](https://cdn.jsdelivr.net/gh/fRANKIII9101/floating-sudoku@main/preview.png)
+
+> 图片若未显示，可点此直接查看：[界面预览](https://cdn.jsdelivr.net/gh/fRANKIII9101/floating-sudoku@main/preview.png)
 
 ## 功能特性
 
@@ -30,7 +32,9 @@
 
 棋盘被切成若干个「笼（cage）」，每笼标注内部数字之和，同一笼内数字互不相同。给定提示数字：简单 12 / 中等 8 / 困难 4 / 专家 0（专家为纯笼题）。
 
-![候选数预览](preview_candidates.png)
+![候选数预览](https://cdn.jsdelivr.net/gh/fRANKIII9101/floating-sudoku@main/preview_candidates.png)
+
+> 图片若未显示，可点此直接查看：[候选数预览](https://cdn.jsdelivr.net/gh/fRANKIII9101/floating-sudoku@main/preview_candidates.png)
 
 ## 操作
 
